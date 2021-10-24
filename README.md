@@ -1,4 +1,4 @@
 # Università degli Studi di Palermo
-## *Master2021*
+## *Master 2021*
 
 ### Tecnologie per Big Data
